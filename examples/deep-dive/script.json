@@ -1,0 +1,27 @@
+{
+  "title": "A signal travels through the body",
+  "style": "deep-dive",
+  "duration_seconds": 6,
+  "narration": "A tiny signal can travel through your body in a fraction of a second.",
+  "cuts": [
+    {
+      "start": 0,
+      "end": 2,
+      "visual": "A luminous pulse appears inside a sculpted abstract nerve.",
+      "caption": "TINY SIGNAL"
+    },
+    {
+      "start": 2,
+      "end": 4,
+      "visual": "Camera follows the pulse through a branching pathway.",
+      "caption": "MOVES FAST"
+    },
+    {
+      "start": 4,
+      "end": 6,
+      "visual": "Pull back to reveal the full branching network.",
+      "caption": "THROUGH YOU"
+    }
+  ],
+  "sources": []
+}

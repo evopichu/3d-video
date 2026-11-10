@@ -1,0 +1,14 @@
+{
+  "name": "3d-story-animation-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "bash scripts/setup.sh",
+    "selftest": "bash scripts/selftest.sh"
+  },
+  "dependencies": {
+    "puppeteer": "^24.10.0",
+    "three": "^0.177.0"
+  }
+}
